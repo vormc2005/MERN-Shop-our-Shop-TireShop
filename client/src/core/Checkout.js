@@ -55,6 +55,9 @@ const Checkout = ({ products, setRun = f => f, run = undefined }) => {
         );
     };
 
+
+   
+
     let deliveryAddress = data.address;
 
     const buy = () => {

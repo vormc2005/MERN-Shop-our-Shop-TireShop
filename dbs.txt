@@ -1,0 +1,8 @@
+PORT=8030
+JWT_SECRET=anytoken
+DATABASE=mongodb://localhost/TireShop
+DATABASE1=mongodb+srv://user:user@TireShop.akqzw.mongodb.net/TireShop?retryWrites=true&w=majority
+BRAINTREE_MERCHANT_ID=8t9hhxkg5w32dmhk
+BRAINTREE_PUBLIC_KEY=qrb88frzhvkg3w8r
+BRAINTREE_PRIVATE_KEY=114d86fb8c9445c650e6762d043a329a
+REACT_APP_API_URL=http://localhost:8030/api
